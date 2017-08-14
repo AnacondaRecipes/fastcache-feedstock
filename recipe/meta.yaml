@@ -40,6 +40,11 @@ about:
   license_family: MIT
   license_file: LICENSE
   summary: 'C implementation of Python 3 lru_cache'
+  description: |
+    fastcache provides speedup of 10-30x over standard library.
+    It passes test suite from standard library for lru_cache.
+  doc_url: https://pypi.python.org/pypi/fastcache/1.0.2
+  doc_source_url: https://github.com/pbrady/fastcache/blob/master/README.md
   dev_url: https://github.com/pbrady/fastcache
 
 extra:
